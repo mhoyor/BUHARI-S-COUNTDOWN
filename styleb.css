@@ -203,6 +203,7 @@ Countdown Timer
   display: grid;
   place-items: center;
   text-align: center;
+  margin-bottom: 15px;
 }
 .deadline-format span {
   display: block;
